@@ -1,5 +1,7 @@
 # -Python-Turtle-
 
+IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/colors
+
 (#1) Make a '3d' house using some basic 2d effects
 
 **About**
@@ -8,9 +10,9 @@
 
 -> Python version 3.9
 
--> future of this project: Make this code a bit more understandable 
-
-                           English release    
+-> future of this project: Make this code a bit more understandable || 
+                           English Realease
+                               
                            
 -> Language: Portuguese
 
