@@ -16,13 +16,26 @@ IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/
 
 (#2) Creating 2d figures with 3d effects
 
+**About**
+
 -> In this project you can learn more about making 3d basic figures using python turtle
 
 -> Python version 3.7
 
--> Future of this project (will be used in #3)
+-> Future of this project: (will be used in #3 and #4)
                                
-                           
+
+(#3) 3d house
+
+**About**
+
+-> Testing 3d building with new techniques. This techniques will be automated in #4
+
+-> Python version 3.7
+
+-> Future of this project: Automate this and others processes (Available in #4)
+
+
 
 
 José Cutileiro IST
