@@ -10,10 +10,19 @@ IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/
 
 -> Python version 3.9
 
--> future of this project: Make this code a bit more understandable || 
-                           English Realease
+-> future of this project: This project was part of a learning process and will no longer be continued
+                           **NOTE** The code is really bad written if you want a project with learning purposes please check #2
+
+
+(#2) Creating 2d figures with 3d effects
+
+-> In this project you can learn more about making 3d basic figures using python turtle
+
+-> Python version 3.7
+
+-> Future of this project (will be used in #3)
                                
                            
--> Language: Portuguese
+
 
 José Cutileiro IST
