@@ -35,6 +35,16 @@ IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/
 
 -> Future of this project: Automate this and others processes (Available in #4)
 
+(#4) Automate 3d painting 
+
+**About**
+
+-> example: ball(r,x,y,[color list]) -> Create a '3d' ball with radius 'r', start draw at x,y, with colors in [color list]
+
+-> Python version 3.7
+
+-> Future of this project: Add more figures 
+
 
 
 
