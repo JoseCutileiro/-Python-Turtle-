@@ -47,7 +47,7 @@ IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/
 
 (#5) Priciples of creating a game using python turtle
 
--> Important: This is not a game 
+-> Important: This is not a game // [wasd] movemment  
 
 -> Python version 3.7
 
