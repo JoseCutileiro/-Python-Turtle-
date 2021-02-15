@@ -45,7 +45,11 @@ IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/
 
 -> Future of this project: Add more figures 
 
+(#5) Priciples of creating a game using python turtle
 
+-> Important: This is not a game 
+
+-> Python version 3.7
 
 
 José Cutileiro IST
