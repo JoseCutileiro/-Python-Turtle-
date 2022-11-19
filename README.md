@@ -52,4 +52,4 @@ IMPORTANT: ACESS ALL TURTLE COLORS HERE: https://cs111.wellesley.edu/labs/lab01/
 -> Python version 3.7
 
 
-José Cutileiro IST
+José Cutileiro
